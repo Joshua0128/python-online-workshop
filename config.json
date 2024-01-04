@@ -1,10 +1,10 @@
 {
-  "index_name": "docusaurus-demo-algolias",
+  "index_name": "docs-algolia",
   "start_urls": [
-    "https://weiyun0912.github.io/Docusaurus-Demo-Algolia/"
+    "https://python.projectszero.tech"
   ],
   "sitemap_urls": [
-    "https://weiyun0912.github.io/Docusaurus-Demo-Algolia/sitemap.xml"
+    "https://python.projectszero.tech/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "stop_urls": [
