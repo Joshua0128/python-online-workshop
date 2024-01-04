@@ -4,7 +4,7 @@ author: "wei"
 tags: ['Python', '數字型別', 'type()函式', '整數', '浮點數']
 description: "數字型別是 Python 中不可或缺的一部分,掌握它就等於掌握了數據處理的關鍵。"
 hide_table_of_contents: false
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Python 中的數字型別掌握數據處理的關鍵

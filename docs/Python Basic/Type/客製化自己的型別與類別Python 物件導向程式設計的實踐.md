@@ -4,7 +4,7 @@ author: "wei"
 tags: ['Python', '自訂型別', 'type()函式', '類別', '物件', '物件導向程式設計']
 description: "在 Python 中,你可以設計自己的型別,開創程式設計的無窮可能。"
 hide_table_of_contents: false
-sidebar_position: 1
+sidebar_position: 5
 ---
 
 # 客製化自己的型別與類別Python 物件導向程式設計的實踐

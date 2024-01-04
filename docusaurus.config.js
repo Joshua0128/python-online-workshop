@@ -99,9 +99,8 @@ const config = {
 			},
 
 			announcementBar: {
-				id: 'support_us', // Any value that will identify this message.
-				content:
-					'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/ptHhdn8cMqrn2NPa7">this survey</a>',
+				id: 'info', // Any value that will identify this message.
+				content: '內容還在開發中，目前進度65%, 預計2024 Q1 完成',
 				backgroundColor: '#fafbfc', // Defaults to `#fff`.
 				textColor: '#091E42', // Defaults to `#000`.
 			},

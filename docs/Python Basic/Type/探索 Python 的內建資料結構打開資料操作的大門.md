@@ -4,7 +4,7 @@ author: "wei"
 tags: ['Python', '內建資料結構', 'type()函式', '列表', '字典', '集合', '元組']
 description: "理解 Python 的內建資料結構,為資料操作打開大門。"
 hide_table_of_contents: false
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # 探索 Python 的內建資料結構打開資料操作的大門

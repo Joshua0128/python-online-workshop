@@ -4,7 +4,7 @@ author: "wei"
 tags: ['Python', '布林值', 'type()函式', 'True', 'False', '程式流程控制']
 description: "布林值是 Python 的基石,掌握它能讓你的程式邏輯更明確。"
 hide_table_of_contents: false
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # 掌握 Python 布林值為程式邏輯開關揭示真相
