@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer'
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-	title: 'Python Learning Workshop',
-	tagline: 'Dinosaurs are cool',
+	title: 'Projects Zero',
+	tagline: '跟 Python 變麻吉',
 	favicon: 'img/favicon.ico',
 
 	// Set the production url of your site here
@@ -41,6 +41,7 @@ const config = {
 			({
 				docs: {
 					sidebarPath: './sidebars.js',
+					routeBasePath: '/docs',
 					// Please change this to your repo.
 					// Remove this to remove the "edit this page" links.
 					editUrl:
@@ -71,10 +72,10 @@ const config = {
 				appId: 'SF83Z7QJOE',
 			},
 			navbar: {
-				title: 'Python Learning Book',
+				title: 'Projects Zero',
 				logo: {
 					alt: 'My Site Logo',
-					src: 'img/logo.svg',
+					src: 'img/logo.png',
 				},
 				items: [
 					{
@@ -107,6 +108,7 @@ const config = {
 
 			footer: {
 				style: 'dark',
+
 				links: [
 					{
 						title: 'Docs',
@@ -120,18 +122,18 @@ const config = {
 					{
 						title: 'Community',
 						items: [
-							{
-								label: 'Stack Overflow',
-								href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-							},
+							// {
+							// 	label: 'Stack Overflow',
+							// 	href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+							// },
 							{
 								label: 'Discord',
 								href: 'https://discordapp.com/invite/docusaurus',
 							},
-							{
-								label: 'Twitter',
-								href: 'https://twitter.com/docusaurus',
-							},
+							// {
+							// 	label: 'Twitter',
+							// 	href: 'https://twitter.com/docusaurus',
+							// },
 						],
 					},
 					{
@@ -148,7 +150,7 @@ const config = {
 						],
 					},
 				],
-				copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+				copyright: `Copyright © ${new Date().getFullYear()} Projectszero, Inc. Built with Docusaurus.`,
 			},
 			prism: {
 				theme: prismThemes.vsDark,
