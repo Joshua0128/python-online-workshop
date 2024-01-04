@@ -40,7 +40,7 @@ print(fArgument List {str(sys.argv)})
 
 ```
 
-在命令行執行這個程式,例如`python3 `[`test.py`](test.py)` arg1 arg2`,將會得到以下的輸出
+在命令行執行這個程式,例如`python3 `[`test.py`]` arg1 arg2`,將會得到以下的輸出
 
 ```python
 Program name test.py

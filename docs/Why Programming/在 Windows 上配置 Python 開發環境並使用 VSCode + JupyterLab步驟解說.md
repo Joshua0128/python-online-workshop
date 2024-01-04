@@ -15,7 +15,7 @@ sidebar_position: 1
 
 Step 1安裝 Python
 
-1. 到 Python 官方網站 ([www.python.org](www.python.org)) 下載安裝檔。
+1. 到 Python 官方網站 ([www.python.org]) 下載安裝檔。
 
 2. 點開安裝檔,確認「Add Python to PATH」的選項已打勾,然後點擊「Install Now」安裝。
 
@@ -27,7 +27,7 @@ Step 2驗證 Python 安裝
 
 Step 3安裝 Visual Studio Code (VSCode)
 
-1. 到 VSCode 官方網站 ([code.visualstudio.com](code.visualstudio.com)) 下載安裝檔。
+1. 到 VSCode 官方網站 ([code.visualstudio.com]) 下載安裝檔。
 
 2. 點開安裝檔並依照指示安裝。
 
